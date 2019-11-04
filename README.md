@@ -1,2 +1,0 @@
-# UnlockVIP
-QuanX UnlockVIP Project
